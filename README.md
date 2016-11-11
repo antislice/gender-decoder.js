@@ -19,4 +19,4 @@ In the meantime, copy/paste the `gender-decoder.js` code into your own project. 
 ## Why?
 Why port this? While working on [CodeForAmerica/posting-pro](https://github.com/codeforamerica/posting-pro), we wanted to have a more nuanced gender bias analysis than looking at pronouns.
 
-Why do this analysis? A masculine sounding job posting will deter women from applying, while a feminine sounding job posting doesn't deter anyone.
+Why do this analysis? A masculine sounding job posting will deter women from applying, while a feminine sounding job posting doesn't deter anyone. Obviously, neutral will be fine for everyone.
